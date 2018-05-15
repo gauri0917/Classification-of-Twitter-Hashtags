@@ -35,4 +35,4 @@ Rstudio 3.0.1
 # Plot
 * It is a line graph for 7 days between number of users and date.
 * The plot looks like this
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
+![alt text](https://github.com/gauri0917/Classification-of-Twitter-Hashtags/blob/master/%23RT.png)
